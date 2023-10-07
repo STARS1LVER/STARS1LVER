@@ -27,4 +27,6 @@
 </div>
 
 ### 🎨 Markup and styles
-
+![HTML](https://img.shields.io/badge/HTML-000000?style=&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=&logo=css3)
+![Booststrap](https://img.shields.io/badge/Bootstrap-7952B3?style=&logo=bootstrap&logoColor=white)
