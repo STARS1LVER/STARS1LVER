@@ -50,10 +50,13 @@
 <td width="50%">
 <h3 align="center">STARMOVIE 🎭</h3>
 <div align="center">
-<a href=""https://demo-star-movie.netlify.app/movie/list-movies" target="_blank"><img src="https://i.ibb.co/bW2TRDp/starmo.jpg" width="400" alt="STARMOVIE"></a>
+<a href="https://demo-star-movie.netlify.app/movie/list-movies" target="_blank"><img src="https://i.ibb.co/bW2TRDp/starmo.jpg" width="400" alt="STARMOVIE"></a>
 <p>
 <a href="https://github.com/STARS1LVER/star-movie.git" target="_blank">
 <img src="https://img.shields.io/badge/Code-F3F3F3?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://demo-star-movie.netlify.app/movie/list-movies" target="_blank">
+<img src="https://img.shields.io/badge/Demo-F3F3F3?style=for-the-badge&logo=wikiquote&logoColor=black">
 </a>
 
 </p>
