@@ -30,3 +30,42 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=&logo=css3)
 ![Booststrap](https://img.shields.io/badge/Bootstrap-7952B3?style=&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwindcss-06B6D4?style=&logo=tailwindcss&logoColor=white)
+
+
+### 🎆 Frameworks
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=&logo=angular)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+![Ilustrator](https://img.shields.io/badge/Illustrator-2A2A2A?style=&logo=adobeillustrator)
+![Figma](https://img.shields.io/badge/figma-F0F0F0?style=&logo=figma)
+
+### 💾 Database
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=&logo=postgresql&logoColor=white)
+
+## Latest projects 🎇
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">STARMOVIE 🎭</h3>
+<div align="center">
+<a href=""https://demo-star-movie.netlify.app/movie/list-movies" target="_blank"><img src="https://i.ibb.co/bW2TRDp/starmo.jpg" width="400" alt="STARMOVIE"></a>
+<p>
+<a href="https://github.com/STARS1LVER/star-movie.git" target="_blank">
+<img src="https://img.shields.io/badge/Code-F3F3F3?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>This is a web application developed in Angular 16.2.0 that allows users to browse and get information about movies. With this application, users can view the list of movies, search for specific movies, access similar movies, view the latest movies in theaters, upcoming movies, and get detailed information about each movie, including its cast.</p>
+</div>
+                                                                                      
+</td>
+
+
+                                                                                      
+</td>                                                    
+</table>                                                                                 
+</div>
+<br>
+
