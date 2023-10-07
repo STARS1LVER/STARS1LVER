@@ -22,7 +22,9 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-000000?style=&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=&logo=typescript&logoColor=white)
-  
+![Python](https://img.shields.io/badge/Python-3776AB?style=&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-512BD4?style=&logo=csharp) 
 </div>
 
+### 🎨 Markup and styles
 
