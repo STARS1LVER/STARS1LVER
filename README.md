@@ -44,6 +44,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=&logo=postgresql&logoColor=white)
 
+### 🧪 Unit Test
+![Jest](https://img.shields.io/badge/Jest-DD0031?style=&logo=jest)
+
 ## Latest projects 🎇
 <table>
 <tr>
