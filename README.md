@@ -45,7 +45,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=&logo=postgresql&logoColor=white)
 
 ### 🧪 Unit Test
-![Jest](https://img.shields.io/badge/Jest-0000?style=&logo=jest)
+![Jest](https://img.shields.io/badge/Jest-CF5404?style=&logo=jest)
 
 ## Latest projects 🎇
 <table>
