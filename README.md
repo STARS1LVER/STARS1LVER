@@ -69,7 +69,29 @@
 </td>
 
                                                                                     
-</td>                                                    
+</td>      
+
+<td width="50%">
+<h3 align="center">STARMOVIE 🎭</h3>
+<div align="center">
+<a href="https://demo-star-movie.netlify.app/movie/list-movies" target="_blank"><img src="https://i.ibb.co/bW2TRDp/starmo.jpg" width="400" alt="STARMOVIE"></a>
+<p>
+<a href="https://github.com/STARS1LVER/star-movie.git" target="_blank">
+<img src="https://img.shields.io/badge/Code-F3F3F3?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://demo-star-movie.netlify.app/movie/list-movies" target="_blank">
+<img src="https://img.shields.io/badge/Demo-F3F3F3?style=for-the-badge&logo=wikiquote&logoColor=black">
+</a>
+
+</p>
+<p>This is a web application developed in Angular 16.2.0 that allows users to browse and get information about movies. With this application, users can view the list of movies, search for specific movies, access similar movies, view the latest movies in theaters, upcoming movies, and get detailed information about each movie, including its cast.</p>
+</div>
+                                                                                      
+</td>
+
+                                                                                    
+</td>     
+
 </table>                                                                                 
 </div>
 <br>
