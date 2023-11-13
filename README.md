@@ -72,19 +72,22 @@
 </td>      
 
 <td width="50%">
-<h3 align="center">STARMOVIE 🎭</h3>
+<h3 align="center">GAMEVERSE 🎮 </h3>
 <div align="center">
-<a href="https://demo-star-movie.netlify.app/movie/list-movies" target="_blank"><img src="https://i.ibb.co/bW2TRDp/starmo.jpg" width="400" alt="STARMOVIE"></a>
+<a href="https://gameverse-stars1lver.netlify.app/gameverse/welcome-page" target="_blank"><img src="https://i.postimg.cc/L6DW86BX/gameverse.jpg" width="400" alt="GAMEVERSE"></a>
 <p>
 <a href="https://github.com/STARS1LVER/star-movie.git" target="_blank">
 <img src="https://img.shields.io/badge/Code-F3F3F3?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://demo-star-movie.netlify.app/movie/list-movies" target="_blank">
+<a href="https://gameverse-stars1lver.netlify.app/gameverse/welcome-page" target="_blank">
 <img src="https://img.shields.io/badge/Demo-F3F3F3?style=for-the-badge&logo=wikiquote&logoColor=black">
 </a>
 
 </p>
-<p>This is a web application developed in Angular 16.2.0 that allows users to browse and get information about movies. With this application, users can view the list of movies, search for specific movies, access similar movies, view the latest movies in theaters, upcoming movies, and get detailed information about each movie, including its cast.</p>
+<p>
+  GAMEVERSE
+  This is a web application developed in Angular 16.2.0 that allows users to navigate and obtain information about video games. With this application, users can view the list of games, search for specific games, access similar games,    see the latest released games, and also provides information by platform, showing available games for each platform. Additionally, users can obtain detailed information about each game, including extra details
+</p>
 </div>
                                                                                       
 </td>
