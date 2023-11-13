@@ -76,7 +76,7 @@
 <div align="center">
 <a href="https://gameverse-stars1lver.netlify.app/gameverse/welcome-page" target="_blank"><img src="https://i.postimg.cc/L6DW86BX/gameverse.jpg" width="400" alt="GAMEVERSE"></a>
 <p>
-<a href="https://github.com/STARS1LVER/star-movie.git" target="_blank">
+<a href="https://github.com/STARS1LVER/GameVerse.git" target="_blank">
 <img src="https://img.shields.io/badge/Code-F3F3F3?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://gameverse-stars1lver.netlify.app/gameverse/welcome-page" target="_blank">
