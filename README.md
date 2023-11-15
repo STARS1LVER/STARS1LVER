@@ -63,7 +63,7 @@
 </a>
 
 </p>
-<p>This is a web application developed in Angular 16.2.0 that allows users to browse and get information about movies. With this application, users can view the list of movies, search for specific movies, access similar movies, view the latest movies in theaters, upcoming movies, and get detailed information about each movie, including its cast.</p>
+<p>This is a web application developed in Angular 16.2.0 that allows users to browse and get information about movies. With this application, users can view the list of movies, search for specific movies, access similar movies, view the latest movies in theaters, upcoming movies, and get detailed information about each movie, including its casting. </p>
 </div>
                                                                                       
 </td>
