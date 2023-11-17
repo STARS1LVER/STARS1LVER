@@ -85,7 +85,7 @@
 
 </p>
 <p>
-  GAMEVERSE
+  | GAMEVERSE |
   This is a web application developed in Angular 16.2.0 that allows users to navigate and obtain information about video games. With this application, users can view the list of games, search for specific games, access similar games,    see the latest released games, and also provides information by platform, showing available games for each platform. Additionally, users can obtain detailed information about each game, including extra details
 </p>
 </div>
