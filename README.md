@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-- I'm a Web Developer 🌐.
+- I'm a Web Developer 🌐.   
 - I'm currently studying Systems Engineering📚.
 - I’m currently learning Backend Tecnologies👩‍💻.
 - I enjoy continuous learning 🔄.
