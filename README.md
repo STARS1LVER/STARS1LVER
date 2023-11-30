@@ -1,16 +1,16 @@
 <div>
 # Hi, I'm Diego!👋.
-
+  
 ![Logo](https://i.postimg.cc/rpM4NygQ/Logo-ST1-4.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&width=435&lines=Hello+World;I'm+Diego;Software+Developer)](https://git.io/typing-svg)
 
 
 ## 🚀 About Me
-- I'm a Web Developer 🌐.   
-- I'm currently studying Systems Engineering📚.
-- I’m currently learning Backend Tecnologies👩‍💻.
-- I enjoy continuous learning 🔄.
+- I'm a Web Developer 🌐 .   
+- I'm currently studying Systems Engineering📚 .
+- I’m currently learning Backend Tecnologies👩‍💻 .
+- I enjoy continuous learning 🔄 .
 
 
 ## 🛠️ My Skills
